@@ -1,0 +1,120 @@
+body {
+    background-color: rgb(241, 202, 167);
+}
+
+.one {
+    border: 5px;
+    box-shadow: 5px 5px 10px pink;
+    background-color: rgb(126, 123, 123);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0px 640px 0px 0px;
+}
+
+.two {
+    border: 5px;
+    box-shadow: 5px 5px 10px rgb(134, 45, 60);
+    background-color: rgb(93, 146, 216);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0px 640px 0px 0px;
+}
+
+.three {
+    border: 5px;
+    box-shadow: 5px 5px 10px rgb(59, 145, 48);
+    background-color: rgb(144, 176, 218);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+}
+
+.four {
+    border: 5px;
+    box-shadow: 5px 5px 10px rgb(231, 121, 78);
+    background-color: rgb(169, 189, 84);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0px 0px 0px 250px;
+}
+
+.five {
+    border: 5px;
+    box-shadow: 5px 5px 10px rgb(194, 57, 114);
+    background-color: rgb(25, 240, 125);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0px 50px 0px 140px;
+}
+
+.six {
+    border: 5px;
+    box-shadow: 5px 5px 10px rgb(59, 145, 48);
+    background-color: rgb(67, 51, 128);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0px 0px 0px 200px;
+}
+
+.seven {
+    border: 5px;
+    box-shadow: 5px 5px 10px rgb(31, 139, 116);
+    background-color: rgb(117, 19, 68);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0px 0px 0px 140px;
+}
+
+.eight {
+    border: 5px;
+    box-shadow: 5px 5px 10px rgb(157, 167, 25);
+    background-color: rgb(87, 37, 68);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0px 0px 0px 450px;
+}
+
+.nine {
+    border: 5px;
+    box-shadow: 5px 5px 10px rgb(127, 183, 155);
+    background-color: rgb(87, 177, 69);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 700;
+    display: inline-block;
+    margin: 0px 0px 0px 630px;
+}
