@@ -4,7 +4,7 @@ body {
 
 .one {
     border: 5px;
-    box-shadow: 5px 5px 10px pink;
+    box-shadow: 5px 5px 10px red;
     background-color: rgb(126, 123, 123);
     width: 250px;
     height: 250px;
@@ -31,7 +31,7 @@ body {
 .three {
     border: 5px;
     box-shadow: 5px 5px 10px rgb(59, 145, 48);
-    background-color: rgb(144, 176, 218);
+    background-color: pink(144, 176, 218);
     width: 250px;
     height: 250px;
     text-align: center;
@@ -44,7 +44,7 @@ body {
 .four {
     border: 5px;
     box-shadow: 5px 5px 10px rgb(231, 121, 78);
-    background-color: rgb(169, 189, 84);
+    background-color: blue(169, 189, 84);
     width: 250px;
     height: 250px;
     text-align: center;
@@ -57,7 +57,7 @@ body {
 .five {
     border: 5px;
     box-shadow: 5px 5px 10px rgb(194, 57, 114);
-    background-color: rgb(25, 240, 125);
+    background-color: yellowgreen;
     width: 250px;
     height: 250px;
     text-align: center;
